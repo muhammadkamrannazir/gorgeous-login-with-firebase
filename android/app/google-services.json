@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724248870891",
+    "project_id": "itour-login-only",
+    "storage_bucket": "itour-login-only.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724248870891:android:0553b04175190672e5e3ae",
+        "android_client_info": {
+          "package_name": "com.example.gorgeous_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724248870891-9qmj8m809v3r9fifelh29stsi51kh5gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhWg1LRZJGnGQzjpOPfE9QuJ5iz-gLSu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724248870891-9qmj8m809v3r9fifelh29stsi51kh5gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
